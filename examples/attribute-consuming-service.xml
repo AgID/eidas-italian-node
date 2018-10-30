@@ -1,0 +1,17 @@
+<md:AttributeConsumingService index="99">
+    <md:ServiceName xml:lang="it">eIDAS Natural Person Minimum Attribute Set</md:ServiceName>
+    <md:RequestedAttribute Name="dateOfBirth"/>
+    <md:RequestedAttribute Name="familyName"/>
+    <md:RequestedAttribute Name="name"/>
+    <md:RequestedAttribute Name="spidCode"/>
+</md:AttributeConsumingService>
+<md:AttributeConsumingService index="100">
+    <md:ServiceName xml:lang="it">eIDAS Natural Person Full Attribute Set</md:ServiceName>
+    <md:RequestedAttribute Name="address"/>
+    <md:RequestedAttribute Name="dateOfBirth"/>
+    <md:RequestedAttribute Name="familyName"/>
+    <md:RequestedAttribute Name="gender"/>
+    <md:RequestedAttribute Name="name"/>
+    <md:RequestedAttribute Name="placeOfBirth"/>
+    <md:RequestedAttribute Name="spidCode"/>
+</md:AttributeConsumingService>
