@@ -11,9 +11,9 @@ stati membri della Comunità Europea.
 Grazie al Nodo, i cittadini italiani potranno accedere ai servizi digitali
 europei utilizzando le proprie credenziali SPID.
 Contemporaneamente, i cittadini europei potranno accedere ai servizi digitali
-italiani utilizzando le properie credenziali nazionali.
+italiani utilizzando le proprie credenziali nazionali.
 
-La definitione, lo sviluppo e l' esercizio del Nodo sono da contestualizzare
+La definizione, lo sviluppo e l' esercizio del Nodo sono da contestualizzare
 all'interno del progetto europeo
 [*FICEP* (First Italian Crossborder eIDAS Proxy)](https://www.agid.gov.it/it/piattaforme/eidas/progetto-ficep),
 co-finanziato con grant agreement numero `INEA/CEF/ICT/A2014/0041`.
