@@ -1,3 +1,5 @@
+# Nodo eIDAS Italiano
+
 ![eIDAS/FICEP](https://dummyimage.com/500x100/e0e0e0/000000.png&text=placeholder-logo-eidas-ficep)
 
 Il Nodo eIDAS Italiano, nel seguito *Nodo*, rappresenta il punto di
@@ -31,8 +33,8 @@ insieme ad AgID.
 
 ## Team
 
-*   Massimiliano Pucciarelli (Responsabile progetto, [@mpucciarelli](#))
-*   Emilio Ronga (Collaboratore presso Agenzia per l'Italia Digitale, [@eronga](#))
-*   Maria Rosaria Cupparo (Collaboratrice presso Agenzia per l'Italia Digitale, [@mrcupparo](https://github.com/mrcupparo))
-*   Michele Leone (Collaboratore presso Agenzia per l'Italia Digitale, [@MikLeone](https://github.com/MikLeone))
-*   Paolo Smiraglia (Collaboratore presso Agenzia per l'Italia Digitale, [@psmiraglia](https://github.com/psmiraglia))
+*   **Massimiliano Pucciarelli** (Responsabile progetto, [@mpucciarelli](#))
+*   **Emilio Ronga** (Collaboratore presso Agenzia per l'Italia Digitale, [@eronga](#))
+*   **Maria Rosaria Cupparo** (Collaboratrice presso Agenzia per l'Italia Digitale, [@mrcupparo](https://github.com/mrcupparo))
+*   **Michele Leone** (Collaboratore presso Agenzia per l'Italia Digitale, [@MikLeone](https://github.com/MikLeone))
+*   **Paolo Smiraglia** (Collaboratore presso Agenzia per l'Italia Digitale, [@psmiraglia](https://github.com/psmiraglia))
