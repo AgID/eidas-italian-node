@@ -1,7 +1,5 @@
 # Nodo eIDAS Italiano
 
-![eIDAS/FICEP](https://dummyimage.com/500x100/e0e0e0/000000.png&text=placeholder-logo-eidas-ficep)
-
 Il Nodo eIDAS Italiano, nel seguito *Nodo*, rappresenta il punto di
 congiunzione fra SPID e gli schemi di identità digitale definiti negli
 stati membri della Comunità Europea.
