@@ -54,4 +54,4 @@ Il gestore del SP dovrà comunicare ad AgID le seguenti informazioni
 
 * Metadata (URL o file) del proprio SP
 * Certificato utilizzato per firmare i metadata
-* Certificato utilizzato per frmate i messaggi SAML
+* Certificato utilizzato per firmare i messaggi SAML
