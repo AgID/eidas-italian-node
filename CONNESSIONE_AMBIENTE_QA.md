@@ -1,13 +1,19 @@
-# QA
+# Connessione all'ambiente di Quality Assurance
 
 Il Nodo eIDAS italiano - nel seguito _Nodo_ - viene riconosciuto dalla
 federazione SPID come un _Identity Provider_ (IdP).
-Pertanto, il processo per connettere il proprio _Service Provider_ (SP) al Nodo
+Per questo motivo, il processo per connettere il proprio _Service Provider_ (SP) al Nodo
 segue le stesse regole e gli stessi passi definiti in SPID.
 
-## Informazioni IdP
+Nel seguito sono riportate le informazioni necessarie per connettere
+un SP SPID al Nodo, nell'ambiente di _Quality Assurance_ (QA).
 
-L'IdP implementato dal Nodo è riconosciuto all'interno della federazione SPID
+**NOTA:** Gli aspetti grafici e di UX relativi all'integrazione non sono
+oggetto di questa guida.
+
+## Informazioni IdP "eIDAS"
+
+L'IdP implementato dal Nodo nell'ambiente di QA è riconosciuto all'interno della federazione SPID
 con il seguente `entityID`
 
     https://sp-proxy.pre.eid.gov.it/spproxy/idpit
@@ -44,6 +50,8 @@ tqVVAr7fWAIZk8+UJhsJ7Kb+IuRgbDX3BCUtNwvTVn6aREN+6U2pyId0dqmdCrse/Uq7
 
 ## Informazioni da comunicare ad AgID
 
+Il gestore del SP dovrà comunicare ad AgID le seguenti informazioni
+
 * Metadata (URL o file) del proprio SP
 * Certificato utilizzato per firmare i metadata
-* Certificfato utilizzato per frmate i messaggi SAML
+* Certificato utilizzato per frmate i messaggi SAML
