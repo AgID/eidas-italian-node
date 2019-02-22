@@ -50,7 +50,7 @@ tqVVAr7fWAIZk8+UJhsJ7Kb+IuRgbDX3BCUtNwvTVn6aREN+6U2pyId0dqmdCrse/Uq7
 
 ## Informazioni da comunicare ad AgID
 
-Il gestore del SP dovrà comunicare ad AgID le seguenti informazioni
+Il gestore del SP dovrà comunicare ad AgID (ficep.contact.support@agid.gov.it) le seguenti informazioni
 
 * Metadata (URL o file) del proprio SP
 * Certificato utilizzato per firmare i metadata
