@@ -50,8 +50,7 @@ tqVVAr7fWAIZk8+UJhsJ7Kb+IuRgbDX3BCUtNwvTVn6aREN+6U2pyId0dqmdCrse/Uq7
 
 ## Informazioni da comunicare ad AgID
 
-Il gestore del SP dovrà comunicare ad AgID (ficep.contact.support@agid.gov.it) le seguenti informazioni
+La richiesta di federazione dovrà essere sottomessa ad AgID sequendo le
+[istruzioni presenti sul sito di helpdesk](https://helpdesk.eid.gov.it/knowledgebase.php?article=17) dedicato al Nodo eIDAS.
 
-* Metadata (URL o file) del proprio SP
-* Certificato utilizzato per firmare i metadata
-* Certificato utilizzato per firmare i messaggi SAML
+
